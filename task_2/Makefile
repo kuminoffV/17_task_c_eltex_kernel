@@ -1,8 +1,6 @@
 
 .PHONY := clean
 
-bin1 := client
-bin2 := serv
 CC:= gcc
 
 all: arm
